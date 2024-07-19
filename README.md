@@ -1,4 +1,4 @@
-# FilesFacuBot
+# Bot de Telegram - Python
 
 FilesFacuBot es un bot de Telegram diseñado para facilitar el envío y almacenamiento de archivos relacionados con la facultad. Permite a los usuarios solicitar archivos específicos y subir nuevos archivos para su almacenamiento y posterior recuperación.
 
